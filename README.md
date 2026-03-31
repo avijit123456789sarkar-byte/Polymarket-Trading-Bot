@@ -5,7 +5,7 @@ A collection of automated trading bots for **Polymarket** binary Up/Down markets
 > **This repository contains the 15-Minute Dump-and-Hedge Bot.**
 > Other bot strategies are available separately — see [Get Other Bots](#get-other-bots) below.
 
-**Contact Us: [Telegram](https://t.me/q10000010)**
+**Conta [Telegram](https://t.me/q10000010)**
 
 ---
 
